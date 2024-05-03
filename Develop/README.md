@@ -1,8 +1,8 @@
-# GAGG
+# This is my README generator
 
 ## Description
 
-ghgadg
+This project creates professionally styled READMe files
 
 ## Table of Contents (Optional)
 
@@ -15,19 +15,19 @@ undefined
 
 ## Installation
 
-bvdjsbk
+github.com/AkcCodes/READMEGen
 
 ## Usage
 
-$bsdjikvhb
+$You can use it to make READMEs through node
 
 ## Credits
 
-vblsdkhjb
+AKC
 
-nhnnnnn
+run node index.js
 
 ## Badges
 
-![license](https://img.shields.io/badge/License-APACHE-blue.svg)
+![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
