@@ -17,9 +17,10 @@ inquirer
         name: "description",
     },
     {
-        type: "input",
-        message: "Table of Contents:",
-        name: "table",
+        type: "list",
+        message: "Add licensing",
+        name: "license",
+        choices: ['MIT','APACHE','GNU']
     },
     {
         type: "input",

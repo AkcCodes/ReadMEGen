@@ -1,13 +1,12 @@
-
-  # 
+# GAGG
 
 ## Description
 
-
+ghgadg
 
 ## Table of Contents (Optional)
 
-
+undefined
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,29 +15,19 @@
 
 ## Installation
 
-
+bvdjsbk
 
 ## Usage
 
-$
+$bsdjikvhb
 
 ## Credits
 
+vblsdkhjb
 
-
-
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+nhnnnnn
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath);
-}
+![license](https://img.shields.io/badge/License-APACHE-blue.svg)
 
-module.exports = generateMarkdown;
